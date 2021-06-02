@@ -27,7 +27,7 @@
 }
 
 .showcase.active{
-    right: 300px;
+    right: 250px;
 }
 
 .showcase header {
@@ -45,7 +45,9 @@
 .logo{
     text-transform: uppercase;
     cursor: pointer;
+    margin-bottom: 25px;
 }
+
 
 .toggle{
     position: relative;
@@ -198,4 +200,3 @@
         font-size: 2em;
     }
 }
-
